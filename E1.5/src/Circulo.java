@@ -1,5 +1,5 @@
 public class Circulo extends FormaGeometrica {
-    double raio;
+    private double raio;
     public Circulo(double raio) {
         this.raio = raio;
     }
